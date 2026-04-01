@@ -10,10 +10,9 @@ int main() {
     int n;
     cin >> n;
 
-    int cnt = 0;
+    int cnt = 1;
 
-    while(n != 0) {
-        n /= 10;
+    while(n /= 10) {
         cnt++;
     }
 
