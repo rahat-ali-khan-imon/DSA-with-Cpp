@@ -8,6 +8,7 @@ int main() {
 
     int* p2 = new int(20);
 
+    cout << p1 << " " << p2 << endl;
     cout << *p1 << " " << *p2 << endl;  // Dereference
 
     return 0;
