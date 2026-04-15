@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int* p;     // Pointer variable declare
+int *p;     // Pointer variable declare
 
 void fun() {
     int* x = new int;   // Dynamic variable declare

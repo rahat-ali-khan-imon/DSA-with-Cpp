@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int* p;
+int *p;
 
 void fun() {
     int* x = new int(100);

@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int* p; // Golober pointer variable declare
+int *p; // Golober pointer variable declare
 
 void fun() {
     int x = 10; // Static variable declare
