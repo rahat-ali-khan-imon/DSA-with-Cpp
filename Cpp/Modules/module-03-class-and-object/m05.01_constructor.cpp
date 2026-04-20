@@ -15,7 +15,7 @@ class Student {
 };
 
 int main() {
-    Student rahim(45, 5, 3.9);      // Constructor call
+    Student rahim(45, 5, 3.9);     // Constructor call
     Student karim(234, 4, 3.99);
 
     cout << rahim.roll << endl;
