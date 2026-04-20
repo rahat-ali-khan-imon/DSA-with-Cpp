@@ -26,5 +26,7 @@ int main() {
     cout << p->cls << endl;
     cout << p->gpa << endl;
 
+    delete p;   // free memory
+
     return 0;
 }
