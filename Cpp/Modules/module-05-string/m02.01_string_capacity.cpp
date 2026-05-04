@@ -1,3 +1,5 @@
+// String s.size(), s.max_size(), s.capacity()
+
 #include<bits/stdc++.h>
 using namespace std;
 
