@@ -1,0 +1,20 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    char str[100];
+    cin >> str;
+
+    cout << str << endl;
+
+    return 0;
+}
+
+/*
+Input:
+programming is fun
+
+Output:
+programming
+
+*/
